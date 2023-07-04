@@ -1,0 +1,60 @@
+# FILENAME Compositional_Notebook.py
+# SOURCE
+
+# TODO will need to enter these into a csv file, then parquet then a database
+# TODO database will include notebook name as a number 2 throughk 41
+# TODO will need to create a dictionary of classes as key and value as MMDDYY
+
+
+
+COMPOSITIONAL NOTEBOOKS
+bus101, da320, da430
+google analytics cert
+ISIT334, Tableau, DA410, DA420
+MITCalc101 103016, Stanford Mathmatical Thinking, Stanford ML Spr21
+Salesfore notebook, 2014-2015-2016, 2017 HR
+Pandas 022420
+Math341
+Statistics240, WIN2021
+DYD ADV#1, 2009, 2011, 2015, 2017, 2021, "Rewrite the script", "You own the pen"
+UW Degree, Study Skills
+NLP Coursera
+Andrew #2 090113
+Andrew #3 110114 Journal and Kickstarter
+ECON
+HIST101, MRKT262
+HILGART, OCEAN190, ASTR101
+ENG235
+BOB
+ALG138
+SOC101 spr2019, BC, SFDC
+MITAi
+PHIL 115, PHIL375, PHIL101
+Paladin
+NLTK2019, IT101
+Neurolinguistic
+Udacity Analyst
+ALGO098
+ALGO097
+ANTH100, AWS CERT
+DYD EPIC episodes
+CMST MKTG, CWST
+Murach Python Prog108
+Ai Startup
+ML, Intel Karthik
+Quant
+NLP
+SQL, ISIT330 win21
+Python March 2014, Django Feb 2017, COMP SCI 2017 2018, Python from scratch
+Notebook Jan2020 011420 to 012620, 2021 021721 to 110121, 2022 011022 080122
+
+HARDBOUND_NOTEBOOK
+Green skinny
+black tiny... #1?
+
+
+MOLESKIN_FLEXIBLE_NOTEBOOK
+2015 110715
+2016
+2017
+2018

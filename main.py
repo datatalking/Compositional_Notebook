@@ -3,9 +3,13 @@
 
 import os
 import pwd
+import sys
+from datetime import datetime
 import readme_generator
 
 
+# TODO add 'Cover Memo Example' SchellAndrew_CoverMemo_Project08.docx
+# TODO '24' comp notebooks dozen misc planners
 # TODO will need to parse /data/raw_notebooks.txt into csv then database
 # TODO will need to enter these into a csv file, then parquet then a database
 # TODO database will include notebook name as a number 2 throughk 41
@@ -22,6 +26,7 @@ def main():
     print_hi(user_name=user_name)
     script_purpose()
     # TODO run "exec.readme_generator() from here"
+    notebook_dictionary('a', 10)
 
 
 def get_username():
@@ -43,6 +48,25 @@ def script_purpose():
     inform user as to script goal to organize compositional notebooks
     :return:
     """
+
+
+def script_logging():
+    """
+    logging the list with an appended item
+    """
+    now = datetime.now()
+    message = f'{now:%M:%S} Logged!'
+
+    with open('logs.text', 'a') as file:
+        print(message, file=file)
+
+
+def notebook_dictionary(key=str, value=int, d={}):
+    """
+    create dictionary from key, value passed via func_name('a',10)
+    """
+    d[key] = value
+    print(d)
 
 
 # Press the green button in the gutter to run the script.

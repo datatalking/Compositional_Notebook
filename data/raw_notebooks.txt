@@ -7,12 +7,14 @@
 
 
 
-COMPOSITIONAL NOTEBOOKS
+notebook_list = {"""
+COMPOSITIONAL NOTEBOOKS LIST
+subject,date_range,key_words,instruction_type,text_book,relevant_P_xx,empty_page_count
 bus101, da320, da430
-google analytics cert
+Google Analytics Cert
 ISIT334, Tableau, DA410, DA420
 MITCalc101 103016, Stanford Mathmatical Thinking, Stanford ML Spr21
-Salesfore notebook, 2014-2015-2016, 2017 HR
+Salesforce notebook, 2014-2015-2016, 2017 HR
 Pandas 022420
 Math341
 Statistics240, WIN2021
@@ -47,6 +49,8 @@ NLP
 SQL, ISIT330 win21
 Python March 2014, Django Feb 2017, COMP SCI 2017 2018, Python from scratch
 Notebook Jan2020 011420 to 012620, 2021 021721 to 110121, 2022 011022 080122
+"""}
+
 
 HARDBOUND_NOTEBOOK
 Green skinny
